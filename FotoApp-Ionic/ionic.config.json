@@ -1,0 +1,7 @@
+{
+  "name": "fotoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
